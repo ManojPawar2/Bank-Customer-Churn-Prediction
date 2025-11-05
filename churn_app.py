@@ -44,7 +44,7 @@ if st.button("Predict"):
             host="127.0.0.1",
             port = 3306,
             user="root",
-            password="Manoj@24",   # <-- replace this
+            password="Password",   # <-- replace this
             database="bank"
         )
 
