@@ -11,7 +11,7 @@ This project predicts customer churn in a bank using Machine Learning and provid
 ## 📊 Features
 - Customer churn prediction with ML model
 - Interactive Power BI dashboard
-- Streamlit-based user interface
+- Streamlit-based user interface 
 
 ## 🚀 How to Run
 1. Clone the repo  
