@@ -15,10 +15,10 @@ This project predicts customer churn in a bank using Machine Learning and provid
 
 ## 🚀 How to Run
 1. Clone the repo  
-2. Run `streamlit run churn_app.py`
+2. Run `streamlit run index.py`
 3. Open Power BI file `Churn_Dashboard.pbix` to explore visualizations
 
 ## 📂 Files
-- `churn_app.py` → Streamlit application
+- `index.py` → Streamlit application
 - `churn_model.pkl` → Trained ML model
 - `Bank_Customer_Churn_Prediction.pbix` → Power BI dashboard
